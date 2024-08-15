@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(64, 238, 186);
+}
+#E1{
+    background-color: rgba(60, 247, 98, 0.925);
+    width: auto;
+    height: auto;
+    border: solid 5px rgb(10, 10, 10);
+   margin: 5px;
+   margin-top: 15%;
+   margin-left: 40%;
+   float: left;
+}
+.C1{
+    width: 54px;    
+    height: 40px;
+    background-color: rgb(250, 212, 73, 0.925);
+    
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+.C2{
+    width: 54px;
+    height: 120px;
+    background-color: rgba(250, 212, 73, 0.925);
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    float: right;
+}
+.T1{
+    width: 94%;
+    height: 50px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px; 
+}
+.C1:hover{
+background-color: aqua;
+
+}
+.C2:hover{
+    background-color: aqua;
+    
+    }
